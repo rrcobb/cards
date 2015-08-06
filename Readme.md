@@ -23,8 +23,6 @@ Return:
 }
 ```
 
-If there are two
-
 ### Bonus Challenges:
  - Figure out how to send email with python, and write a program to send the cards to the participants.
 - Instead of returning a dictionary of strings, output files of HTML!  Style your cards with CSS and put them online.
