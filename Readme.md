@@ -23,9 +23,8 @@ Return:
 }
 ```
 
-If there are two
-
 ### Bonus Challenges:
- - Figure out how to send email with python, and write a program to send the cards to the participants.
+- Write a solution that doesn't use nested loops 
+- Figure out how to send email with python, and write a program to send the cards to the participants.
 - Instead of returning a dictionary of strings, output files of HTML!  Style your cards with CSS and put them online.
 - Solve the challenge again, but this time, with Javascript. Can it be done?
